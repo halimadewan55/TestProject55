@@ -24,4 +24,4 @@ hs_err_pid*
 
 #few other file
 .idea/*
-.iml
+*.iml
